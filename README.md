@@ -77,19 +77,6 @@
 
 ---
 
-## 📜 Certifications
-
-- 30+ certifications in:
-  - C# & .NET Development
-  - Object-Oriented Programming (OOP)
-  - Data Structures & Algorithms
-  - SQL & Database Systems
-  - ADO.NET & Desktop Applications
-  - Windows Services Development
-  - Real-world Software Projects (DVLD, Clinic System)
-
----
-
 ## 🌍 Languages
 
 - Arabic 🇮🇶 — Native  

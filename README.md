@@ -2,25 +2,37 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/> <br>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/><br>
-
 </div>
 
 # 👋 Hello, I'm Hazem Ahmad
 
-### 💻 Junior Software Engineer (.NET / C# / C++)
+### 💻 Junior Software Engineer (.NET | C# | C++ | WinForms | SQL Server)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=hazem-ahmad-haz&style=flat&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/hazem-ahmad-haz?style=social)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Hazem%20Ahmad-blue?style=flat&logo=linkedin)
+
+---
+
+## 🚀 Status
+
+- 🔭 Currently building desktop applications using **C# / .NET**
+- 🧠 Learning advanced **system design, algorithms, and backend architecture**
+- 🏗️ Focused on real-world software development (not just tutorials)
+- 🎯 Seeking **remote / part-time software engineering opportunities**
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 I’m a **Junior Software Engineer** specializing in desktop application development  
-- 💻 Strong experience in **C#, .NET, WinForms, SQL Server, and C++**  
-- 🏗️ Built multiple **real-world systems** using 3-tier architecture  
-- 🧠 Strong foundation in **OOP, Data Structures, Algorithms, and Database Design**  
-- 🗄️ Experienced with **SQL Server, ADO.NET, stored procedures, and system design**  
-- 📊 Completed **30+ certifications** in software engineering and backend development  
-- 🎯 Focused on becoming a strong **backend / desktop software engineer**
+- 💻 Strong experience in **C#, C++, WinForms, SQL Server, ADO.NET**
+- 🏗️ Built multiple **large-scale desktop systems with 3-tier architecture**
+- 🧠 Strong foundation in **OOP, Data Structures, Algorithms**
+- 🗄️ Experienced in **database design, stored procedures, and system workflows**
+- 📊 Completed **30+ certifications in software engineering**
+- 🔥 Passionate about writing clean, scalable, maintainable code
 
 ---
 
@@ -36,8 +48,9 @@
 ![WinForms](https://img.shields.io/badge/WinForms-0078D7?style=flat)
 ![ADO.NET](https://img.shields.io/badge/ADO.NET-5C2D91?style=flat)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-### Concepts
+### Core Concepts
 - Object-Oriented Programming (OOP)
 - Data Structures & Algorithms
 - Database Design & Normalization
@@ -51,29 +64,29 @@
 ## 📌 Featured Projects
 
 ### 🏥 Clinic Management System
-- Built a full clinic management system using **C#, WinForms, SQL Server**
-- Implemented **patient management, doctors, appointments, medical records**
-- Designed a **3-tier architecture (UI / BLL / DAL)**
-- Integrated **authentication & role-based access control**
+- Built a full clinic system using **C#, WinForms, SQL Server**
+- Implemented patient, doctor, appointments, and medical records modules
+- Designed **3-tier architecture (UI / BLL / DAL)**
+- Added authentication and role-based access control
 - Used **ADO.NET + stored procedures**
 
 ---
 
 ### 🚗 Driving License Management System (DVLD)
 - Developed a **large-scale desktop system (35+ forms)**
-- Implemented full workflow: licenses, tests, renewals, users
-- Built secure authentication and role-based permissions
-- Designed a normalized **SQL Server database**
-- Applied clean architecture and OOP principles
+- Full workflow: users, licenses, tests, renewals, reporting
+- Secure authentication and permissions system
+- Designed normalized SQL Server database
+- Applied clean architecture + OOP design
 
 ---
 
 ### 🏦 C++ Banking System
-- Built a console-based banking system in **C++**
-- Implemented user authentication with encrypted passwords
-- Developed features: deposits, withdrawals, transfers, reporting
-- Used file-based storage and modular architecture
-- Strong focus on OOP design and system structure
+- Console-based banking system in **C++**
+- Features: authentication, transfers, deposits, withdrawals
+- File-based storage system (no database)
+- Modular OOP architecture
+- Simulated real banking workflows
 
 ---
 
@@ -84,12 +97,11 @@
 
 ---
 
-## 📫 Contact
+## 📫 Connect With Me
 
-- Email: HazemAhmad01234@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/hazem-ahmad-haz  
-- Location: Baghdad, Iraq  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/hazem-ahmad-haz)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:HazemAhmad01234@gmail.com)
 
 ---
 
-⭐ Always learning, building, and improving as a developer.
+⭐ Always learning, building, and improving as a software engineer.

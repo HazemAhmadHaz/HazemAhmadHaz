@@ -1,107 +1,96 @@
-<div align="center" width="50">
+# Hazem Ahmad Hazem
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/> <br>
-
-</div>
-
-# 👋 Hello, I'm Hazem Ahmad
-
-### 💻 Junior Software Engineer (.NET | C# | C++ | WinForms | SQL Server)
+Junior Software Engineer (.NET | C# | C++ | SQL Server)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=hazem-ahmad-haz&style=flat&color=blue)
-![GitHub followers](https://img.shields.io/github/followers/hazem-ahmad-haz?style=social)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Hazem%20Ahmad-blue?style=flat&logo=linkedin)
+## About Me
+
+I am a Junior Software Engineer focused on desktop application development using C#, .NET, WinForms, and C++. I have strong experience in object-oriented programming, data structures, algorithms, and database systems. I build real-world applications using clean architecture and three-tier design principles.
+
+I am continuously improving my skills in software engineering, system design, and backend development through hands-on projects and structured learning.
 
 ---
 
-## 🚀 Status
-
-- 🔭 Currently building desktop applications using **C# / .NET**
-- 🧠 Learning advanced **system design, algorithms, and backend architecture**
-- 🏗️ Focused on real-world software development (not just tutorials)
-- 🎯 Seeking **remote / part-time software engineering opportunities**
-
----
-
-## 🚀 About Me
-
-- 💻 Strong experience in **C#, C++, WinForms, SQL Server, ADO.NET**
-- 🏗️ Built multiple **large-scale desktop systems with 3-tier architecture**
-- 🧠 Strong foundation in **OOP, Data Structures, Algorithms**
-- 🗄️ Experienced in **database design, stored procedures, and system workflows**
-- 📊 Completed **30+ certifications in software engineering**
-- 🔥 Passionate about writing clean, scalable, maintainable code
-
----
-
-## 🛠️ Tech Stack
+## Skills
 
 ### Programming Languages
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+- C#
+- C++
+- SQL (T-SQL)
 
-### Frameworks & Tools
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![WinForms](https://img.shields.io/badge/WinForms-0078D7?style=flat)
-![ADO.NET](https://img.shields.io/badge/ADO.NET-5C2D91?style=flat)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+### Technologies & Frameworks
+- .NET Framework
+- WinForms
+- ADO.NET
+- SQL Server
+- Windows Services
 
-### Core Concepts
+### Concepts
 - Object-Oriented Programming (OOP)
-- Data Structures & Algorithms
-- Database Design & Normalization
+- Data Structures
+- Algorithms
+- Database Design
+- Normalization
 - Three-Tier Architecture
-- System Design Fundamentals
-- Multithreading (basic)
 - Clean Code Principles
 
 ---
 
-## 📌 Featured Projects
+## Projects
 
-### 🏥 Clinic Management System
-- Built a full clinic system using **C#, WinForms, SQL Server**
-- Implemented patient, doctor, appointments, and medical records modules
-- Designed **3-tier architecture (UI / BLL / DAL)**
-- Added authentication and role-based access control
-- Used **ADO.NET + stored procedures**
+### Clinic Management System
+Desktop application built using C#, WinForms, and SQL Server.
 
----
-
-### 🚗 Driving License Management System (DVLD)
-- Developed a **large-scale desktop system (35+ forms)**
-- Full workflow: users, licenses, tests, renewals, reporting
-- Secure authentication and permissions system
-- Designed normalized SQL Server database
-- Applied clean architecture + OOP design
+- Implemented patient, doctor, appointment, and medical record management
+- Designed a three-tier architecture (UI, Business Logic, Data Access)
+- Used ADO.NET with stored procedures for database operations
+- Implemented authentication and role-based access control
 
 ---
 
-### 🏦 C++ Banking System
-- Console-based banking system in **C++**
-- Features: authentication, transfers, deposits, withdrawals
-- File-based storage system (no database)
-- Modular OOP architecture
-- Simulated real banking workflows
+### Driving License Management System (DVLD)
+Large-scale desktop system developed using C#, WinForms, and SQL Server.
+
+- Built a system with 35+ forms covering full licensing workflow
+- Implemented user management, license issuance, renewals, tests, and reporting
+- Designed normalized database structure using SQL Server
+- Applied clean architecture and OOP principles
 
 ---
 
-## 🌍 Languages
+### C++ Banking System
+Console-based banking application developed in C++.
 
-- Arabic 🇮🇶 — Native  
-- English 🇬🇧 — Professional  
-
----
-
-## 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/hazem-ahmad-haz)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:HazemAhmad01234@gmail.com)
+- Implemented authentication system with encrypted passwords
+- Built features for deposits, withdrawals, transfers, and client management
+- Used file-based storage system for persistence
+- Applied object-oriented design principles
 
 ---
 
-⭐ Always learning, building, and improving as a software engineer.
+## Certifications
+
+- 30+ certifications in:
+  - C# and .NET Development
+  - Object-Oriented Programming
+  - Data Structures and Algorithms
+  - SQL and Database Systems
+  - ADO.NET and Desktop Applications
+  - Windows Services
+  - Real-world software systems (DVLD, Clinic System)
+
+---
+
+## Languages
+
+- Arabic — Native
+- English — Professional
+
+---
+
+## Contact
+
+- GitHub: https://github.com/HazemAhmadHaz
+- LinkedIn: https://www.linkedin.com/in/hazem-ahmad-haz
+- Email: HazemAhmad01234@gmail.com

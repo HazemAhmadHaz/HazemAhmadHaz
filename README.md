@@ -1,12 +1,12 @@
 # Hazem Ahmad Hazem
 
-Junior Software Engineer (.NET | C# | C++ | SQL Server)
+Software Engineer (.NET | C# | C++ | SQL Server)
 
 ---
 
 ## About Me
 
-I am a Junior Software Engineer focused on desktop application development using C#, .NET, WinForms, and C++. I have strong experience in object-oriented programming, data structures, algorithms, and database systems. I build real-world applications using clean architecture and three-tier design principles.
+I am a +3 years Software Engineer focused on desktop application development using C#, .NET, WinForms, and C++. I have strong experience in object-oriented programming, data structures, algorithms, and database systems. I build real-world applications using clean architecture and three-tier design principles.
 
 I am continuously improving my skills in software engineering, system design, and backend development through hands-on projects and structured learning.
 
@@ -46,6 +46,7 @@ Desktop application built using C#, WinForms, and SQL Server.
 - Designed a three-tier architecture (UI, Business Logic, Data Access)
 - Used ADO.NET with stored procedures for database operations
 - Implemented authentication and role-based access control
+- https://github.com/HazemAhmadHaz/Clinic-Management-System
 
 ---
 
@@ -56,6 +57,7 @@ Large-scale desktop system developed using C#, WinForms, and SQL Server.
 - Implemented user management, license issuance, renewals, tests, and reporting
 - Designed normalized database structure using SQL Server
 - Applied clean architecture and OOP principles
+- github.com/HazemAhmadHaz/Driving-License-Management-System
 
 ---
 
@@ -66,7 +68,8 @@ Console-based banking application developed in C++.
 - Built features for deposits, withdrawals, transfers, and client management
 - Used file-based storage system for persistence
 - Applied object-oriented design principles
-- github.com/HazemAhmadHaz/Bank-Management
+- https://github.com/HazemAhmadHaz/Bank-Management
+  
 ---
 
 ## Certifications
@@ -91,6 +94,6 @@ Console-based banking application developed in C++.
 
 ## Contact
 
-- GitHub: github.com/HazemAhmadHaz
-- LinkedIn: www.linkedin.com/in/hazem-ahmad-haz
+- GitHub: https://github.com/HazemAhmadHaz
+- LinkedIn: https://www.linkedin.com/in/hazem-ahmad-haz
 - Email: HazemAhmad01234@gmail.com

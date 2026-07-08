@@ -66,7 +66,7 @@ Console-based banking application developed in C++.
 - Built features for deposits, withdrawals, transfers, and client management
 - Used file-based storage system for persistence
 - Applied object-oriented design principles
-
+- github.com/HazemAhmadHaz/Bank-Management
 ---
 
 ## Certifications
@@ -91,6 +91,6 @@ Console-based banking application developed in C++.
 
 ## Contact
 
-- GitHub: https://github.com/HazemAhmadHaz
-- LinkedIn: https://www.linkedin.com/in/hazem-ahmad-haz
+- GitHub: github.com/HazemAhmadHaz
+- LinkedIn: www.linkedin.com/in/hazem-ahmad-haz
 - Email: HazemAhmad01234@gmail.com

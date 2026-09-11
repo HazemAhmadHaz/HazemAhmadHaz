@@ -1,99 +1,182 @@
-# Hazem Ahmad Hazem
+# Hazem Ahmad
 
-Software Engineer (.NET | C# | C++ | SQL Server)
+**.NET Backend Developer | C# | ASP.NET Core | SQL Server**
 
 ---
 
 ## About Me
 
-I am a +3 years Software Engineer focused on desktop application development using C#, .NET, WinForms, and C++. I have strong experience in object-oriented programming, data structures, algorithms, and database systems. I build real-world applications using clean architecture and three-tier design principles.
+Junior Backend Developer with hands-on experience building **desktop applications** and **RESTful APIs**.
 
-I am continuously improving my skills in software engineering, system design, and backend development through hands-on projects and structured learning.
+I started my programming journey with **C++**, building strong foundations in programming, **OOP**, and **data structures**, then moved to C# and developed desktop applications using **Windows Forms** and **SQL databases**.
+
+I later transitioned into backend development with **ASP.NET Core**, focusing on secure, maintainable APIs, clean architecture, validation, authorization, and reliable database design.
+
+I am also developing modern **AI-assisted development** skills to improve my software development workflow while maintaining code quality, security, testing, and maintainability.
 
 ---
 
 ## Skills
 
-### Programming Languages
-- C#
-- C++
-- SQL (T-SQL)
+### Backend & .NET
 
-### Technologies & Frameworks
-- .NET Framework
-- WinForms
+- .NET 8
+- C#
+- ASP.NET Core
+- RESTful APIs
+- Entity Framework Core
+- LINQ
 - ADO.NET
-- SQL Server
 - Windows Services
 
-### Concepts
-- Object-Oriented Programming (OOP)
-- Data Structures
-- Algorithms
+### Security & Validation
+
+- Authentication
+- Authorization
+- JWT & Refresh Tokens
+- Password Hashing
+- Rate Limiting
+- Exception Handling
+- Logging & Auditing
+
+### Database
+
+- SQL Server
 - Database Design
-- Normalization
-- Three-Tier Architecture
-- Clean Code Principles
+- Query Optimization
+- Relational Databases
+- Stored Procedures
+- EF Core Migrations & Tracking
+
+### Architecture & Design
+
+- Layered Architecture
+- Repository Pattern
+- Unit of Work
+- DTO Pattern
+- SOLID Principles
+- Clean Code
+
+### Programming Fundamentals
+
+- C++
+- Object-Oriented Programming
+- Data Structures
+- Multithreading
+- Synchronization
+- Asynchronous Programming
+- Algorithms — 500+ problems solved
+
+### Desktop Development
+
+- Windows Forms
+- Custom Controls
+- Event Handling
+- Delegates
+
+### AI-Assisted Development
+
+- Claude Code
+- Subagents
+- Skills
+- MCP
+- Hooks
+- Context Window Management
+
+### Tools
+
+- Git
+- GitHub
+- Visual Studio
+- Notion
 
 ---
 
 ## Projects
 
+### Training Center Management System
+
+**C# | ASP.NET Core | EF Core | SQL Server | JWT**
+
+Backend RESTful API developed with ASP.NET Core.
+
+- Implemented JWT authentication with refresh tokens, authorization, and password hashing.
+- Used EF Core with Repository, Service Layer, and DTO patterns.
+- Added FluentValidation and centralized exception handling.
+- Implemented pagination and Serilog logging.
+- Designed the system using layered architecture and separation of concerns.
+
+---
+
 ### Clinic Management System
-Desktop application built using C#, WinForms, and SQL Server.
 
-- Implemented patient, doctor, appointment, and medical record management
-- Designed a three-tier architecture (UI, Business Logic, Data Access)
-- Used ADO.NET with stored procedures for database operations
-- Implemented authentication and role-based access control
-- https://github.com/HazemAhmadHaz/Clinic-Management-System
+**C# | WinForms | SQL Server | ADO.NET**
 
----
+Complete desktop clinic management system with 15+ forms.
 
-### Driving License Management System (DVLD)
-Large-scale desktop system developed using C#, WinForms, and SQL Server.
+- Implemented patient registration, doctor management, appointment scheduling, and medical records.
+- Designed and implemented a SQL Server database using stored procedures and relational database principles.
+- Applied OOP and three-layer architecture for a maintainable desktop application.
 
-- Built a system with 35+ forms covering full licensing workflow
-- Implemented user management, license issuance, renewals, tests, and reporting
-- Designed normalized database structure using SQL Server
-- Applied clean architecture and OOP principles
-- github.com/HazemAhmadHaz/Driving-License-Management-System
+[View Project](https://github.com/HazemAhmadHaz/Clinic-Management-System)
 
 ---
 
-### C++ Banking System
-Console-based banking application developed in C++.
+### Driving License Management System
 
-- Implemented authentication system with encrypted passwords
-- Built features for deposits, withdrawals, transfers, and client management
-- Used file-based storage system for persistence
-- Applied object-oriented design principles
-- https://github.com/HazemAhmadHaz/Bank-Management
-  
+**C# | WinForms | SQL Server | ADO.NET**
+
+Professional-style desktop system with 25+ forms covering the complete licensing workflow.
+
+- Implemented authentication, user management, license issuance, renewals, testing workflows, and reporting.
+- Designed a relational SQL Server database and integrated it using ADO.NET.
+- Applied OOP and layered architecture across the Presentation, Business Logic, and Data Access layers.
+
+[View Project](https://github.com/HazemAhmadHaz/Driving-License-Management-System)
+
+---
+
+### Bank Management System
+
+**C++ | Console Application | OOP**
+
+Console-based banking system developed using C++ and object-oriented design.
+
+- Implemented authentication, deposits, withdrawals, transfers, client management, and reporting.
+- Designed reusable utility classes for string handling, date/time, and serialization.
+- Implemented file-based persistence and modular screen architecture.
+
+[View Project](https://github.com/HazemAhmadHaz/Bank-Management)
+
 ---
 
 ## Certifications
 
-- 30+ certifications in:
-  - C# and .NET Development
-  - Object-Oriented Programming
-  - Data Structures and Algorithms
-  - SQL and Database Systems
-  - ADO.NET and Desktop Applications
-  - Windows Services
-  - Real-world software systems (DVLD, Clinic System)
+**30+ certifications** covering:
+
+- C++
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- C#
+- SQL
+- REST APIs
+- Security
+- Entity Framework
+- .NET Development
+
+Sources include ProgrammingAdvices.com and other learning platforms.
 
 ---
 
 ## Languages
 
-- Arabic — Native
-- English — Professional
+- **Arabic** — Native
+- **English** — Fluent
 
 ---
 
 ## Contact
 
-- GitHub: https://github.com/HazemAhmadHaz
-- LinkedIn: https://www.linkedin.com/in/hazem-ahmad-haz
-- Email: HazemAhmad01234@gmail.com
+- **GitHub:** [github.com/HazemAhmadHaz](https://github.com/HazemAhmadHaz)
+- **LinkedIn:** [linkedin.com/in/hazem-ahmad-haz](https://linkedin.com/in/hazem-ahmad-haz)
+- **Email:** HazemAhmad01234@gmail.com

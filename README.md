@@ -1,182 +1,33 @@
 # Hazem Ahmad
 
-**.NET Backend Developer | C# | ASP.NET Core | SQL Server**
+**Full-Stack Developer | C# | ASP.NET Core | React | SQL Server**
 
 ---
 
 ## About Me
 
-Junior Backend Developer with hands-on experience building **desktop applications** and **RESTful APIs**.
+Full-Stack Developer focused on building secure, maintainable backend systems with C# and ASP.NET Core, and clean, responsive interfaces with React.
 
-I started my programming journey with **C++**, building strong foundations in programming, **OOP**, and **data structures**, then moved to C# and developed desktop applications using **Windows Forms** and **SQL databases**.
+My journey started with C++, where I built strong foundations in programming, OOP, data structures and problem solving (500+ problems solved). I then moved to C# and built complete desktop applications with Windows Forms and SQL Server, before shifting to web development with ASP.NET Core, EF Core and React.
 
-I later transitioned into backend development with **ASP.NET Core**, focusing on secure, maintainable APIs, clean architecture, validation, authorization, and reliable database design.
+Today I work as a Full Stack Engineer at Health 360, where I've expanded into Python, Django, FastAPI and Docker, and learned how to pick up new technologies quickly in a real production environment.
 
-I am also developing modern **AI-assisted development** skills to improve my software development workflow while maintaining code quality, security, testing, and maintainability.
+What I bring:
+- Backend: C#, .NET 8, ASP.NET Core Web API, RESTful APIs, Python, Django, FastAPI
+- Data: SQL Server, PostgreSQL, SQLite, EF Core, ADO.NET
+- Frontend: React, Next.js, JavaScript, HTML, CSS
+- Security: JWT authentication with refresh tokens, role-based authorization, validation, centralized exception handling, logging
+- Architecture: Clean Architecture, layered design, SOLID principles, Repository and Service patterns
+- Tools: Git, GitHub, Docker, Swagger, Postman, Visual Studio
+- AI-assisted development: Claude Code, subagents, skills, MCP
 
----
+Selected projects:
+- Training Center Management System API — ASP.NET Core (.NET 8), EF Core, SQL Server, JWT
+- Clinic Management System — C#, WinForms, SQL Server, ADO.NET
+- Driving License Management System — C#, WinForms, SQL Server, ADO.NET
+- Bank Management System — C++, OOP
 
-## Skills
+30+ certifications in C++, OOP, data structures, C#, SQL, REST APIs, security and EF Core (ProgrammingAdvices.com and others):
+https://drive.google.com/drive/folders/15o_t21_cz8YiTj9umdgQ4YS6rQyMK_TV?usp=sharing
 
-### Backend & .NET
-
-- .NET 8
-- C#
-- ASP.NET Core
-- RESTful APIs
-- Entity Framework Core
-- LINQ
-- ADO.NET
-- Windows Services
-
-### Security & Validation
-
-- Authentication
-- Authorization
-- JWT & Refresh Tokens
-- Password Hashing
-- Rate Limiting
-- Exception Handling
-- Logging & Auditing
-
-### Database
-
-- SQL Server
-- Database Design
-- Query Optimization
-- Relational Databases
-- Stored Procedures
-- EF Core Migrations & Tracking
-
-### Architecture & Design
-
-- Layered Architecture
-- Repository Pattern
-- Unit of Work
-- DTO Pattern
-- SOLID Principles
-- Clean Code
-
-### Programming Fundamentals
-
-- C++
-- Object-Oriented Programming
-- Data Structures
-- Multithreading
-- Synchronization
-- Asynchronous Programming
-- Algorithms — 500+ problems solved
-
-### Desktop Development
-
-- Windows Forms
-- Custom Controls
-- Event Handling
-- Delegates
-
-### AI-Assisted Development
-
-- Claude Code
-- Subagents
-- Skills
-- MCP
-- Hooks
-- Context Window Management
-
-### Tools
-
-- Git
-- GitHub
-- Visual Studio
-- Notion
-
----
-
-## Projects
-
-### Training Center Management System
-
-**C# | ASP.NET Core | EF Core | SQL Server | JWT**
-
-Backend RESTful API developed with ASP.NET Core.
-
-- Implemented JWT authentication with refresh tokens, authorization, and password hashing.
-- Used EF Core with Repository, Service Layer, and DTO patterns.
-- Added FluentValidation and centralized exception handling.
-- Implemented pagination and Serilog logging.
-- Designed the system using layered architecture and separation of concerns.
-
----
-
-### Clinic Management System
-
-**C# | WinForms | SQL Server | ADO.NET**
-
-Complete desktop clinic management system with 15+ forms.
-
-- Implemented patient registration, doctor management, appointment scheduling, and medical records.
-- Designed and implemented a SQL Server database using stored procedures and relational database principles.
-- Applied OOP and three-layer architecture for a maintainable desktop application.
-
-[View Project](https://github.com/HazemAhmadHaz/Clinic-Management-System)
-
----
-
-### Driving License Management System
-
-**C# | WinForms | SQL Server | ADO.NET**
-
-Professional-style desktop system with 25+ forms covering the complete licensing workflow.
-
-- Implemented authentication, user management, license issuance, renewals, testing workflows, and reporting.
-- Designed a relational SQL Server database and integrated it using ADO.NET.
-- Applied OOP and layered architecture across the Presentation, Business Logic, and Data Access layers.
-
-[View Project](https://github.com/HazemAhmadHaz/Driving-License-Management-System)
-
----
-
-### Bank Management System
-
-**C++ | Console Application | OOP**
-
-Console-based banking system developed using C++ and object-oriented design.
-
-- Implemented authentication, deposits, withdrawals, transfers, client management, and reporting.
-- Designed reusable utility classes for string handling, date/time, and serialization.
-- Implemented file-based persistence and modular screen architecture.
-
-[View Project](https://github.com/HazemAhmadHaz/Bank-Management)
-
----
-
-## Certifications
-
-**30+ certifications** covering:
-
-- C++
-- Object-Oriented Programming
-- Data Structures & Algorithms
-- C#
-- SQL
-- REST APIs
-- Security
-- Entity Framework
-- .NET Development
-
-Sources include ProgrammingAdvices.com and other learning platforms.
-
----
-
-## Languages
-
-- **Arabic** — Native
-- **English** — Fluent
-
----
-
-## Contact
-
-- **GitHub:** [github.com/HazemAhmadHaz](https://github.com/HazemAhmadHaz)
-- **LinkedIn:** [linkedin.com/in/hazem-ahmad-haz](https://linkedin.com/in/hazem-ahmad-haz)
-- **Email:** HazemAhmad01234@gmail.com
+I also write in Arabic about the real side of a junior developer's journey: interviews, first jobs, mistakes and lessons that courses don't cover.
